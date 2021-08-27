@@ -23,6 +23,10 @@ li {
   font-family: cursive;
 }
 
+p {
+  font-family: sans-serif;
+}
+
 #first {
   font-family: 'Cookie', cursive;
   color: rgba(0, 115, 230,1);
